@@ -38,7 +38,7 @@ export const products: Product[] = [
     status: "pre_order",
     availableDate: "June 2026",
     maxQty: 3,
-    image: "/images/hkpm.jpg",
+    image: "/images/hkpm.png",
   },
   {
     id: "gg-b0002",
@@ -52,7 +52,7 @@ export const products: Product[] = [
     status: "pre_order",
     availableDate: "May 2026",
     maxQty: 3,
-    image: "/images/city-of-darkness.jpg",
+    image: "/images/city-of-darkness.png",
   },
   {
     id: "gg-b0003",
@@ -66,7 +66,7 @@ export const products: Product[] = [
     status: "pre_order",
     availableDate: "June 2026",
     maxQty: 3,
-    image: "/images/jal.jpg",
+    image: "/images/jal.png",
   },
   {
     id: "gg-b0004",
@@ -80,7 +80,7 @@ export const products: Product[] = [
     status: "pre_order",
     availableDate: "June 2026",
     maxQty: 3,
-    image: "/images/snack-sakura.jpg",
+    image: "/images/snack-sakura.png",
   },
   {
     id: "gg-b0005",
@@ -93,7 +93,7 @@ export const products: Product[] = [
     category: "book",
     status: "in_stock",
     maxQty: 3,
-    image: "/images/american-stopover.jpg",
+    image: "/images/american-stopover.png",
   },
   {
     id: "gg-b0006",
@@ -107,7 +107,7 @@ export const products: Product[] = [
     status: "pre_order",
     availableDate: "June 2026",
     maxQty: 3,
-    image: "/images/under-vancouver.jpg",
+    image: "/images/under-vancouver.png",
   },
 ];
 
